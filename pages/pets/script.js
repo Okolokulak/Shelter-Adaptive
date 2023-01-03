@@ -138,14 +138,6 @@ function initCards() {
 
 initCards();
 
-//let lrn1 = document.querySelector("c1 button");
-//document.querySelector("c2 button").classList.add("lrn2")
-//document.querySelector("c3 button").classList.add("lrn3")
-//document.querySelector("c4 button").classList.add("lrn4")
-//document.querySelector("c5 button").classList.add("lrn5")
-//document.querySelector("c6 button").classList.add("lrn6")
-//document.querySelector("c7 button").classList.add("lrn7")
-//document.querySelector("c8 button").classList.add("lrn8")
 document.querySelector("#burger + label").addEventListener("click", hidescroll);
 
 function popup1() {
